@@ -1,0 +1,29 @@
+{
+  "name": "strona",
+  "version": "1.0.0",
+  "description": "strona o mnie, krotkie przedstawienie",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bromba/strona-OM.git"
+  },
+  "keywords": [
+    "prezentacja",
+    "pierwsza",
+    "strona",
+    "zabawa"
+  ],
+  "author": "Malgorzata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bromba/strona-OM/issues"
+  },
+  "homepage": "https://github.com/bromba/strona-OM#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
