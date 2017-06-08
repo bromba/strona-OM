@@ -1,0 +1,81 @@
+body {
+	background-color: #CCC;
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+}
+header {
+	padding: 40px;
+	background: url(https://images.pexels.com/photos/219778/pexels-photo-219778.jpeg?h=350&auto=compress&cs=tinysrgb);
+	background-size: cover;
+}
+header h1 {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+header p, header h1 {
+    text-align: center;
+    color: #ecf0f1;
+    text-shadow: 3px 2px grey;
+}
+header p {
+	font-family: 'Muli', sans-serif;
+	font-size: 20px;
+}
+.container {
+	margin: 0 auto;
+	width: 700px;
+	background-color: #FFF;
+}
+section {
+  padding: 0 20%;
+}
+.about {
+	padding: 7px 7px 40px 7px;
+	background: #1abc9c;
+}
+.interests {
+	padding: 7px 7px 50px 7px;
+	background: #16a085;
+}
+p {
+	margin-left: 30px;
+}
+h1, h2 {
+	font-family: 'Muli', sans-serif;
+	margin-left: 30px;
+}
+ul {
+	margin-left: 60px;
+}
+
+.about h1 {
+  margin-top: 40px;
+  font-size: 30px;
+}
+
+.interests h2 {
+  margin-top: 40px;
+  font-size: 25px;
+}
+.square {
+	list-style-type: square;
+}
+footer {
+  margin-top: 60px;
+  padding: 30px;
+  background: #333333;
+}
+footer p {
+  text-align: center;
+  color: #B0B5C4;
+}
+footer a {
+  text-decoration: none;
+  color: #f1c40f;
+  font-weight: bold;  
+}
+a:hover{
+	text-decoration: underline;
+}
